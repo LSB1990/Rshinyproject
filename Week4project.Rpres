@@ -1,0 +1,34 @@
+Week4project
+========================================================
+author: 
+date: 
+autosize: true
+
+First Slide
+========================================================
+
+Data set is coming from 
+
+A classical data of Michelson (but not this one with Morley) on measurements done in 1879 on the speed of light. The data consists of five experiments, each consisting of 20 consecutive 'runs'. The response is the speed of light measurement, suitably coded (km/sec, with 299000 subtracted).
+
+This is standard data set within R studio
+
+`Data
+========================================================
+The data are the following:
+```{r}
+summary(morley)
+```
+
+
+Widget usage
+========================================================
+Choose the experiment number you want to see the result from. 
+
+You can choose between exp 1 to 5 and wil give you the result on the graph
+for the speed of light computations per run
+
+
+
+
+
